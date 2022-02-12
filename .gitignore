@@ -1,0 +1,6 @@
+*.swp
+*.bak
+*.BAK
+*~
+__pycache__/
+

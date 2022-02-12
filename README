@@ -1,0 +1,1 @@
+This is a toy UTF-8 encoder. It takes a Unicode code point as input in format U+AABBCCDD and outputs the associated byte sequence.
